@@ -1,0 +1,15 @@
+c EXAMPLE NETWORK DATA FILE
+p max  8     11 
+n    5  s
+n    7  t
+a     1	     7	   120
+a     1      8     28
+a     2      6     80
+a     3      1     80
+a     4      1     56
+a     4      6     32
+a     5      2     100
+a     5      3     60
+a     5      4     40
+a     6      8     60
+a     8	     7	   100

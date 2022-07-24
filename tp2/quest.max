@@ -1,0 +1,19 @@
+c p nbNodes nbArcs
+p max 7 11
+c n nodeNB s (for source)
+n 1 s
+c n nodeNb t (for sink)
+n 7 t
+c a node1 node2 capacity (for arc from 1 to 2 with capacity)
+a 1 2 4000
+a 1 3 400
+a 1 5 1234235
+a 2 3 10
+a 2 6 7
+a 3 4 8
+a 3 6 12
+a 4 7 15
+a 5 3 3
+a 6 4 20
+a 6 7 35
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/pseudo.dir/pseudo.c.o  -o pseudo 

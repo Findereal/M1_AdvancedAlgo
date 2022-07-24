@@ -1,0 +1,5 @@
+dans exI2: az1, bz1, bd, cz3
+
+mais c2b et c2c sont à 60 et 70
+
+min cut = arcs saturés dont la somme est égale au flow max
